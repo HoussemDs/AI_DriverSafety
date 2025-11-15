@@ -1,0 +1,21 @@
+# Python caches and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Python version file
+.python-version
+
+# Lock files
+uv.lock
+poetry.lock
+
+# IDE/editor configs
+.vscode/
+.idea/
+pyproject.toml
